@@ -1,0 +1,14 @@
+<!-- 
+  To create proper favicons from your Logo.png:
+  
+  1. Use an online tool like https://realfavicongenerator.net/
+  2. Upload your Logo.png file
+  3. Download the generated favicon package
+  4. Place the files in the public folder:
+     - favicon.ico
+     - favicon-16x16.png
+     - favicon-32x32.png
+     - apple-touch-icon.png
+  
+  For now, we'll use the Logo.png as a temporary favicon.
+-->
