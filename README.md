@@ -31,17 +31,4 @@ We work on modern technologies including:
 
 ---
 
-## 📂 Project Structure
 
-```text
-deepneuralAI_react_site/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── App.js
-│   └── index.js
-├── package.json
-├── package-lock.json
-└── README.md
